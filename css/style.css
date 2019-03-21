@@ -1,0 +1,7 @@
+@import './reset.css';
+@import './bulma.css';
+@import './flickity.css';
+
+.main-carousel .carousel-cell {
+  width: 100%;
+}
